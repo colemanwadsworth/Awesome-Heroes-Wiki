@@ -1,1 +1,1 @@
-sdfsd
+[[Class page|class]]
