@@ -28,5 +28,5 @@ to bold a word: **word**
 _word_  
 **word**
 
-[[Build Your Character|build-charc]]
+[[Build Your Character|build-charc]]  
 [[Nested file in a folder|Necromancer/zombies]]
