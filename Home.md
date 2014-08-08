@@ -21,3 +21,5 @@ To make a header use the following:
 to italicize a word: _word_
 to bold a word: **word**
 ```
+_word_
+**word**
