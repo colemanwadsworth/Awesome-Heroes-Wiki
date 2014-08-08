@@ -1,4 +1,6 @@
 # Awesome Heroes Wiki
 
-[[Class Page|class]]  
-[[Necromancer|necromancer]]
+To create a new page:
+```markdown
+[[new page link name|name of the file for new page]]
+```
