@@ -16,3 +16,8 @@ To make a header use the following:
 # Header 1
 ## Header 2
 ### Header 3
+
+```markdown
+to italicize a word: _word_
+to bold a word: **word**
+```
