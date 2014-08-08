@@ -13,3 +13,6 @@ To make a header use the following:
 ##### Header 5 tag
 ###### Header 6 tag
 ```
+# Header 1
+## Header 2
+### Header 3
