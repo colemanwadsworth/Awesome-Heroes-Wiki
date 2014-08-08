@@ -28,4 +28,4 @@ to bold a word: **word**
 _word_  
 **word**
 
-[[Build Your Character|build_charc]]
+[[Build Your Character|build-charc]]
