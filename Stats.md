@@ -2,6 +2,8 @@
 
 Combat is conducted using 4 major stats, these stats determine how many dice you get to roll, how many spaces your character can move, and other important values like HP or MP  
 
+---  
+
 **Skill**- will increase your attack dice and lower your targets defense dice when using a physical attack
 
 **Strength**- will increase your defense dice and HP total
