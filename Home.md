@@ -2,5 +2,5 @@
 [[Wiki Guide|wikiguide]]
 
 [[Game instructions|Mechanics]]  
-[[Build my characters|Classes]]  
+[[Classes|Classes]]  
 [[Item guide|Items]]  
