@@ -1,4 +1,6 @@
 # Awesome Heroes Wiki
+[[Wiki Guide|wikiguide]]
+
 
 To create a new page:
 ```markdown
