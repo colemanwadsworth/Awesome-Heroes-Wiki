@@ -1,1 +1,0 @@
-[[Class page|class]]
