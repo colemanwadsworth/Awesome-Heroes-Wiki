@@ -181,6 +181,7 @@ __Italics__
 _Italics_
 
 ### Starting it up:
-
-cd desktop/awesome_wiki
+```
+cd desktop/awesome_wiki  
 gollum
+```
