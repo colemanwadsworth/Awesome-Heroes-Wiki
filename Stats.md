@@ -1,18 +1,18 @@
 # Stats  
+
 Combat is conducted using 4 major stats, these stats determine how many dice you get to roll, how many spaces your character can move, and other important values like HP or MP  
 
-Skill- will increase your attack dice and lower your targets defense dice when using a physical attack
+**Skill**- will increase your attack dice and lower your targets defense dice when using a physical attack
 
-Strength- will increase your defense dice and HP total
+**Strength**- will increase your defense dice and HP total
 
-Dexterity- will decrease your opponents attack dice on physical and magic attacks, and increase your movement
+**Dexterity**- will decrease your opponents attack dice on physical and magic attacks, and increase your movement
 
-Wisdom- will increase your attack dice for magical attacks, and MP total
-
+**Wisdom**- will increase your attack dice for magical attacks, and MP total
 
 Base stats
 
-Class	Skill	Strength	Dexterity	Wisdom
+Class* 	Skill	Strength	Dexterity	Wisdom
 Soldier	5	5	3	1
 Mercenary	4	3	5	2
 Adept	2	3	3	6
