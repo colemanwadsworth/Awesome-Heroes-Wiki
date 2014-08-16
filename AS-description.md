@@ -6,4 +6,4 @@ Each character is capable of gaining some abilities, some more than others, but 
 
 Each character can also learn spells, some spells are active while others are passive. An active spell (like Fireball which deals damage) may only be cast instead of attacking, while each passive spell (like speed charm which increases your mov total for a turn) may be used once on each turn whether or not the user has attacked, or not. However all spells cost MP to cast and if the user does not have enough than the spell may not be cast.
 
-[[Back to game instruction|Mechanics]]
+[[Back to game instructions|Mechanics]]
