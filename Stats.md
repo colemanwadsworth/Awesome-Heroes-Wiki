@@ -28,3 +28,5 @@ Other stats
 
 	Mov- (movement) how many spaces you can move on a single turn
 	Mov = (3 + dexterity/4 ) –
+
+[[Back to game instructions|Mechanics]]
