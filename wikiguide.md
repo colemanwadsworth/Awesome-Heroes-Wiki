@@ -179,3 +179,8 @@ __Italics__
 ```
 **Bold**  
 _Italics_
+
+### Starting it up:
+
+cd desktop/awesome_wiki
+gollum
