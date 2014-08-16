@@ -1,4 +1,3 @@
-
 ## Movement  
 A turn consists of an action (attacking, switching weapons or casting an active spell), which can come before, after, or in the middle of movement, and an infinite amount of passive actions (casting a passive spell or using a potion)
 For movement, use the number calculated for the Movement stat and apply it to the terrain type you are traversing. When moving up in height count the side of each tile as a space, however unless otherwise specified, a character may not scale heights of 3 tiles or more
