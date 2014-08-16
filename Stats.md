@@ -12,23 +12,24 @@ Combat is conducted using 4 major stats, these stats determine how many dice you
 
 **Wisdom**- will increase your attack dice for magical attacks, and MP total
 
-Base stats
+### Base stats  
 
-Class* 	Skill	Strength	Dexterity	Wisdom
-Soldier	5	5	3	1
-Mercenary	4	3	5	2
-Adept	2	3	3	6
-Golem*(lvl.3)	12	12	2	3
+Class* 	|Skill	|Strength|	Dexterity|	Wisdom 
+---|---|---|---|--- 
+Soldier	|5|	5|	3|	1|  
+Mercenary|	4|	3|	5|	2  
+Adept	|2|	3|	3|	6  
+Golem*(lvl.3)|	12|	12|	2|	3  
 
-Other stats
+### Other stats  
 
-	HP- (hit points) how much damage you can take before dying
-	HP = 4 + strength/3
+**HP**- (hit points) how much damage you can take before dying  
+HP = 4 + strength/3
 
-	MP-  (magic points) used for casting spells
-	MP = 8 + wisdom x 2
+**MP**-  (magic points) used for casting spells  
+MP = 8 + wisdom x 2
 
-	Mov- (movement) how many spaces you can move on a single turn
-	Mov = (3 + dexterity/4 ) –
+**Mov**- (movement) how many spaces you can move on a single turn  
+Mov = (3 + dexterity/4 ) – armor penalty
 
 [[Back to game instructions|Mechanics]]
