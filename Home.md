@@ -3,4 +3,6 @@
 
 [[Game instructions|Mechanics]]  
 [[Classes|Classes]]  
+[[Races|Races]]  
+[[Gods|Gods]]  
 [[Item guide|Items]]  
