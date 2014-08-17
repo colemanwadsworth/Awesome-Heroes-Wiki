@@ -1,10 +1,6 @@
 ## Races   
 
----
-
 A race gives you a bonus to one or more of your stat’s caps , it is picked at the beginning of the game. Its god gives you a bonus on some turns (Mages and Golems may not pick a nationality)  
-
----
 
 ### [[Humans|Races/Humans]]  
 Men were the last to arrive on the continent of Kalozamey, but they are many and they are tenacious  
