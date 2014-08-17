@@ -4,7 +4,7 @@
   
 
 [[Movement|mechanics/Movement]]  
-[[Combat|Mechanics/Combat]]  
+[[Combat|mechanics/Combat]]  
   
    At the beginning of the game and every time one of the 10 levels is completed a player may add points to his or her stat totals. If available, 2 of these points may be spent on getting a new spell or ability. Spells and abilities are detailed in the class descriptions, where you can find all the details you will need to start your game like your equipment and stat totals.  
   
