@@ -27,7 +27,9 @@ Goblins were created by Kal in the modern day to battle against men, they are be
 
 ---
 
-### [[Mages|Races/Mages]]  LOCKED
+### LOCKED CLASSES  
+
+### [[Mages|Races/Mages]]  
 
  To be a Mage you must start as an adept and choose to become one at level
 
