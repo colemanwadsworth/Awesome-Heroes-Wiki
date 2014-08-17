@@ -1,9 +1,8 @@
 ## Races   
-(Mages and Golems may not pick a nationality)
 
 ---
 
-A race gives you a bonus to one or more of your stat’s caps , it is picked at the beginning of the game. Its god gives you a bonus on some turns  
+A race gives you a bonus to one or more of your stat’s caps , it is picked at the beginning of the game. Its god gives you a bonus on some turns (Mages and Golems may not pick a nationality)  
 
 ---
 
