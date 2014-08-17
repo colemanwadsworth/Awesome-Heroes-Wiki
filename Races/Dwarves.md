@@ -1,4 +1,5 @@
-**Kalohm** clan) The Kalohm clan is known for their great underground palaces, and great forging abilities  
+#### **Kalohm** clan  
+The Kalohm clan is known for their great underground palaces, and great forging abilities  
 
 ---
 
@@ -8,7 +9,8 @@
 
 ---
 
-**Sul** clan) The Sul clan is known for their Epic treasure hoard and Legendary warriors 
+#### **Sul** clan  
+The Sul clan is known for their Epic treasure hoard and Legendary warriors 
 
 ---
  
