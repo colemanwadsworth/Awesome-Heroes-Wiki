@@ -17,3 +17,5 @@ The southern Marro are known for their advanced smithing, and Nervous demeanor
 +1 Skill cap, -2 falling damage, +1 movement, -5 MP, ignore the movement penalty of sand tiles, +5 to bog, quicksand, and deep water checks  
 (weakness: earth) (weakness: water) (resistance: fire) (resistance: dark) (Bonus (6): +1 attack dice)  
 (Gods: Kal, Eneyeche, Gozma or Lamudo)
+
+[[Races|Races]]
