@@ -1,8 +1,7 @@
 #### **Shifran**  
-   
----
-
 Shifrans are often short tempered, but highly skilled in their craft  
+ 
+---
 
 +2 Skill cap, +1 Wisdom cap  
 (weakness: dark) (resistance: fire) (Bonus (5): +1 attack dice)  
@@ -11,10 +10,9 @@ Shifrans are often short tempered, but highly skilled in their craft
 ---
 
 #### **Thoran**  
+Thorans are often not the brightest but there strength in battle is unmatched  
 
 ---
-
-Thorans are often not the brightest but there strength in battle is unmatched  
 
 +2 Strength cap, +1 Skill cap  
 (weakness: dark) (resistance: water) (Bonus (3): +1 defense die)  
@@ -23,10 +21,9 @@ Thorans are often not the brightest but there strength in battle is unmatched
 ---
 
 #### **Lamudian**  
+Lamudians are often gullible but there dexterous bodies make them valuable allies 
 
 ---
-
-Lamudians are often gullible but there dexterous bodies make them valuable allies  
 
 +2 Dexterity cap, +1 Strength cap  
 (weakness: dark) (resistance: air) (Bonus (3): +1 movement)  
@@ -35,10 +32,9 @@ Lamudians are often gullible but there dexterous bodies make them valuable allie
 ---
 
 #### **Amitian**  
+Amitian’s are often quiet, but are highly in touch with they're spirit   
 
 ---
-
-Amitian’s are often quiet, but are highly in touch with theire spirit  
 
 +2 Wisdom cap, +1 Dexterity cap  
 (Bonus (5): +5 MP)  
