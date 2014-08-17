@@ -25,11 +25,10 @@ Elves were created by Eneyche in the ancient days to preserve life and balance b
 ### [[Goblins|Races/Goblins]]
 Goblins were created by Kal in the modern day to battle against men, they are beings of chaos who know no law
 
-Northern Uru) +1 Dexterity cap, +2 climbing cap, +1 Steal die, -10G Respect, +1 movement, -5 MP, ignore the movement penalty of brush tiles, +5 to bog, and ice checks (weakness: light) (weakness: fire) (resistance: water) 
-(resistance: dark) (Bonus (6): +1 HP) The northern Uru are known for their Handy craftsmanship, and hyperactive demeanor (Gods: Kal, Eneyeche, Thorus, or Shifra)
+---
 
-Southern Marro) +1 Skill cap, -2 falling damage, +1 Steal die, -1 Herb trading, +1 movement, -5 MP, ignore the movement penalty of sand tiles, +5 to bog, quicksand, and deep water checks, (weakness: earth) (weakness: water) (resistance: fire) (resistance: dark) (Bonus (6): +1 attack dice) The southern Marro are known for their advanced smithing, and Nervous demeanor (Gods: Kal, Eneyeche, Gozma or Lamudo)
-Mages
+### [[Mages|Races/Mages]]  LOCKED
+
  To be a Mage you must start as an adept and choose to become one at level
 
 Disciple) +5 MP (weakness: light) (Bonus (7): -1 HP, +1 magic attack, +1 magic defense, + 5 MP) Mages have sworn loyalty to the elements and Zuloscia, abandoning ties to their god of origin
