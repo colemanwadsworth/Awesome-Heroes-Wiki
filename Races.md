@@ -6,20 +6,10 @@ XX Races
 A race gives you a bonus to one or more of your stat’s caps , it is picked at the beginning of the game. Its god gives you a bonus on some turns
 
 [[Humans|Races/Humans]]  
-Men were the last to arrive on the continent of Kalozamey, but they are many and they are tenacious
+Men were the last to arrive on the continent of Kalozamey, but they are many and they are tenacious  
 
-		Shifran) +2 Skill cap, +1 Wisdom cap (weakness: dark) 
-(resistance: fire) (Bonus (5): +1 attack dice) Shifrans are often short tempered, but highly skilled in their craft (Gods: Shifra, Thorus, Lamudo, or Amiti)
-		
-	Thoran) +2 Strength cap, +1 Skill cap, +10 Respect, -1 Herb trading (weakness: dark) (resistance: water) (Bonus (3): +1 defense die) Thorans are often not the brightest but there strength in battle is unmatched (Gods: Thorus, Shifra, Amiti, or Gozma)
-
-	Lamudian) +2 Dexterity cap, +1 Strength cap, +1 Steal die, -10 Respect, (weakness: dark) (resistance: air) (Bonus (3): +1 movement) Lamudians are often gullible but there dexterous bodies make them valuable allies (Gods: Lamudo, Amiti, Shifra, or Gozma)
-
-	Amitian) +2 Wisdom cap, +1 Dexterity cap, +1 Herb trading, -1 Steal die, (Bonus (5): +5 MP) Amitian’s are often quiet, but are highly in touch with theire spirit (Gods: Amiti, Lamudo, Thorus, or Eneyeche)
-
-
-(X3G2) Dwarves
-Dwarves were created by Gozma in the ancient days to battle the dragons, and forge great constructs
+[[Dwarves|Races/Dwarves]]  
+Dwarves were created by Gozma in the ancient days to battle the dragons, and forge great constructs  
 
 Kalohm clan) : +1 Wisdom cap, +1 Ability cap, +10 respect, -1 Steal die, +1 HP, -1 movement (weakness: earth) (weakness: dark) (resistance: light) (resistance: fire) (Bonus (2): +1 HP) The Kalohm clan is known for their great underground palaces, and great forging abilities (Gods: Gozma, Shifra, Lamudo, or Amiti)
 
