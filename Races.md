@@ -3,16 +3,24 @@ XX Races
 
 ---
 
-A race gives you a bonus to one or more of your stat’s caps , it is picked at the beginning of the game. Its god gives you a bonus on some turns
+A race gives you a bonus to one or more of your stat’s caps , it is picked at the beginning of the game. Its god gives you a bonus on some turns  
+
+---
 
 ### [[Humans|Races/Humans]]  
 Men were the last to arrive on the continent of Kalozamey, but they are many and they are tenacious  
 
-[[Dwarves|Races/Dwarves]]  
+---
+
+### [[Dwarves|Races/Dwarves]]  
 Dwarves were created by Gozma in the ancient days to battle the dragons, and forge great constructs  
 
-(X3G1) Elves
+---
+
+### [[Elves|Races/Elves]]
 Elves were created by Eneyche in the ancient days to preserve life and balance between chaos and order
+
+---
 
 High elf) +1 Wisdom cap, +1 Spell cap, +1 Herb trading, -1 Steal dice, +5 MP, -1 HP, (weakness: fire) (resistance: light) (Bonus (4): +5 MP) The High elves are known for their insight, and distaste for other races (Gods: Eneyeche, Amiti, Lamudo, or Thorus)
 
