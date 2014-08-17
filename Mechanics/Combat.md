@@ -53,8 +53,10 @@ Equal|	=
 ### Damage  
 
 The damage you take from a physical attack is equal to the amount of skulls your attacker rolled minus the amount of shields you roll on your defense roll 
-(-physical defense)  
+(-physical defense) The damage you take from a magical attack is equal to the amount of skulls your attacker rolled (-magic defense)  
 
-The damage you take from a magical attack is equal to the amount of skulls your attacker rolled (-magic defense)
+Occasionally you will be hit by a status condition  
+
+[[Status conditions|Status conditions]]
 
 [[Back to game instructions|Mechanics]]
