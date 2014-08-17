@@ -15,3 +15,5 @@
 +1 Strength cap, +1 Abilty cap, +1 HP, -1 movement  
 (weakness: earth) (resistance: water) (Bonus (2): +1 defense die)  
 (Gods: __Gozma__, Thorus, Shifra, or Lamudo)  
+
+[[Races|Races]]
