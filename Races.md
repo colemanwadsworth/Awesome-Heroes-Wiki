@@ -1,4 +1,4 @@
-XX Races   
+## Races   
 (Mages and Golems may not pick a nationality)
 
 ---
