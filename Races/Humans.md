@@ -28,7 +28,10 @@
 
 ---
 
-**Amitian**) Amitian’s are often quiet, but are highly in touch with theire spirit  
+**Amitian**) Amitian’s are often quiet, but are highly in touch with theire spirit 
+
+---
+ 
 +2 Wisdom cap, +1 Dexterity cap  
 (Bonus (5): +5 MP)  
 (Gods: __Amiti__, Lamudo, Thorus, or Eneyeche)  
