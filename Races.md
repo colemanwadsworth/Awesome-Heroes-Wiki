@@ -22,12 +22,7 @@ Elves were created by Eneyche in the ancient days to preserve life and balance b
 
 ---
 
-High elf) +1 Wisdom cap, +1 Spell cap, +1 Herb trading, -1 Steal dice, +5 MP, -1 HP, (weakness: fire) (resistance: light) (Bonus (4): +5 MP) The High elves are known for their insight, and distaste for other races (Gods: Eneyeche, Amiti, Lamudo, or Thorus)
-
-Dark elf) +1 Dexterity cap, +1 Spell cap, +1 Herb trading, -10 G Respect, +5 MP, -1 HP, (weakness: light) (resistance: earth) 
-(Bonus (4): +1 movement) The Dark elves are known for both their wildness and shyness (Gods: Eneyeche, Lamudo, Amiti, or Shifra)
-
-(X3G3) Goblins
+### [[Goblins|Races/Goblins]]
 Goblins were created by Kal in the modern day to battle against men, they are beings of chaos who know no law
 
 Northern Uru) +1 Dexterity cap, +2 climbing cap, +1 Steal die, -10G Respect, +1 movement, -5 MP, ignore the movement penalty of brush tiles, +5 to bog, and ice checks (weakness: light) (weakness: fire) (resistance: water) 
