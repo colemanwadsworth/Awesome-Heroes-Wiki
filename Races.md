@@ -30,10 +30,7 @@ Goblins were created by Kal in the modern day to battle against men, they are be
 ### LOCKED CLASSES  
 
 ### [[Mages|Races/Mages]]  
-
- To be a Mage you must start as an adept and choose to become one at level
-
-Disciple) +5 MP (weakness: light) (Bonus (7): -1 HP, +1 magic attack, +1 magic defense, + 5 MP) Mages have sworn loyalty to the elements and Zuloscia, abandoning ties to their god of origin
+To be a Mage you must start as an adept and choose to become one at level
 
 (X3E4) Dragonborn
 Dragonborn are those who have drunk the blood of a dragon to gain power
