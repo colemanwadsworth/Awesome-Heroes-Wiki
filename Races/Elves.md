@@ -1,4 +1,4 @@
-#### **High elf**)  
+#### **High elf**  
 The High elves are known for their insight, and distaste for other races  
 
 ---
@@ -9,7 +9,7 @@ The High elves are known for their insight, and distaste for other races
 
 ---
 
-#### **Dark elf**)  
+#### **Dark elf**  
 The Dark elves are known for both their wildness and shyness  
 
 ---
