@@ -1,4 +1,5 @@
-**Shifran**) Shifrans are often short tempered, but highly skilled in their craft  
+#### **Shifran**  
+Shifrans are often short tempered, but highly skilled in their craft  
   
 ---
 
@@ -8,7 +9,8 @@
 		
 ---
 
-**Thoran**) Thorans are often not the brightest but there strength in battle is unmatched  
+#### **Thoran**  
+Thorans are often not the brightest but there strength in battle is unmatched  
 
 ---
 
@@ -18,7 +20,8 @@
 
 ---
 
-**Lamudian**) Lamudians are often gullible but there dexterous bodies make them valuable allies  
+#### **Lamudian**  
+Lamudians are often gullible but there dexterous bodies make them valuable allies  
 
 ---
 
@@ -28,7 +31,8 @@
 
 ---
 
-**Amitian**) Amitian’s are often quiet, but are highly in touch with theire spirit 
+#### **Amitian**  
+Amitian’s are often quiet, but are highly in touch with theire spirit 
 
 ---
  
