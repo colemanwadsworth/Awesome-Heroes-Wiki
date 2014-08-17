@@ -5,16 +5,11 @@ XX Races
 
 A race gives you a bonus to one or more of your stat’s caps , it is picked at the beginning of the game. Its god gives you a bonus on some turns
 
-[[Humans|Races/Humans]]  
+### [[Humans|Races/Humans]]  
 Men were the last to arrive on the continent of Kalozamey, but they are many and they are tenacious  
 
 [[Dwarves|Races/Dwarves]]  
 Dwarves were created by Gozma in the ancient days to battle the dragons, and forge great constructs  
-
-Kalohm clan) : +1 Wisdom cap, +1 Ability cap, +10 respect, -1 Steal die, +1 HP, -1 movement (weakness: earth) (weakness: dark) (resistance: light) (resistance: fire) (Bonus (2): +1 HP) The Kalohm clan is known for their great underground palaces, and great forging abilities (Gods: Gozma, Shifra, Lamudo, or Amiti)
-
-Sul clan) +1 Strength cap, +1 Abilty cap, +10 respect, -1 Herb trading, +1 HP, -1 movement (weakness: earth) (resistance: water) 
-(Bonus (2): +1 defense die) The Sul clan is known for their Epic treasure hoard and Legendary warriors (Gods: Gozma, Thorus, Shifra, or Lamudo)
 
 (X3G1) Elves
 Elves were created by Eneyche in the ancient days to preserve life and balance between chaos and order
