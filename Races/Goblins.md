@@ -1,4 +1,4 @@
-Northern #### **Uru**  
+#### Northern **Uru**  
 The northern Uru are known for their Handy craftsmanship, and hyperactive demeanor  
 
 ---
@@ -9,7 +9,7 @@ The northern Uru are known for their Handy craftsmanship, and hyperactive demean
 
 ---
 
-Southern #### **Marro**  
+#### Southern **Marro**  
 The southern Marro are known for their advanced smithing, and Nervous demeanor  
 
 ---
