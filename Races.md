@@ -22,13 +22,17 @@ Goblins were created by Kal in the modern day to battle against men, they are be
 
 ---
 
-### LOCKED CLASSES  
+## LOCKED CLASSES  
 
 ### [[Mages|Races/Mages]]  
 To be a Mage you must start as an adept and choose to become one at level
 
-(X3E4) Dragonborn
-Dragonborn are those who have drunk the blood of a dragon to gain power
+---
+
+### [[Dragonborn|Races/Dragonborn]]  
+Dragonborn are those who have drunk the blood of a dragon to gain power  
+
+---
 
 After drinking the dragonsblood elixir you lose your original automatic ability and it is replaced by mountainwalking 
 
