@@ -41,4 +41,4 @@ Golems are ancient beings of magic created by Zuloscia to defend the realm they 
 
 ---
 
-[[Weaknesses|Charts/Weakness and resistances]]
+[[Weaknesses|Charts/Weaknesses]]
