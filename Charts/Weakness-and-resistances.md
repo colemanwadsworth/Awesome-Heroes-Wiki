@@ -8,11 +8,11 @@
 
 When being hit by light damage: __take +2 damage__
 
-When being healed by an effect: Heal -1 HP
+When being healed by an effect: __Heal 1 less__
 
-When attacking forcefields: deal +2 damage
+When attacking forcefields: __deal +2 damage__
 
-When casting spells on characters immune to magic damage temporarily: the damage goes through
+When casting spells on characters immune to magic damage temporarily: __the damage goes through__
 
 ---
 
@@ -20,15 +20,15 @@ When casting spells on characters immune to magic damage temporarily: the damage
 
 ---
 
-When being hit by wind damage
+When being hit by wind damage: __take +2 damage__
 
-When being knocked back 
+When being knocked back: __go back an extra space__
 
-When rolling trap checks 
+When rolling trap checks: __-2 to your roll__
 
-When being hit by Birds 
+When being hit by Birds: __take +2 damage__
 
-When flying or your movement is boosted temporarily 
+When flying or your movement is boosted temporarily: __-1 movement__
 
 ---
 
@@ -36,15 +36,15 @@ When flying or your movement is boosted temporarily
 
 ---
 
-When being hit by water damage
+When being hit by water damage: __take +2 damage__
 
-When you are frozen
+When you are frozen: __takes one extra turn to thaw__
 
-When your magic defense is boosted temporarily
+When your magic defense is boosted temporarily: __gain 1 less__
 
-When rolling for ice or deep water checks 
+When rolling for ice or deep water checks: __-2 to your roll__
 
-When being hit by Waterbound enemies
+When being hit by Waterbound enemies: __take +2 damage__
 
 ---
 
@@ -52,15 +52,15 @@ When being hit by Waterbound enemies
 
 ---
 
-When being hit by earth damage
+When being hit by earth damage: __take +2 damage__
 
-When being hit by mammals or fists
+When being hit by mammals or fist: __take +2 damage__
 
-When your defense dice are boosted temporarily
+When your defense dice are boosted temporarily: __gain 1 less__
 
-When your physical defense is boosted temporarily
+When your physical defense is boosted temporarily: __gain 1 less__
 
-When checking for bog or quicksand
+When checking for bog or quicksand: __-2 to your roll__
 
 ---
 
@@ -68,13 +68,13 @@ When checking for bog or quicksand
 
 ---
 
-When being hit by Fire damage
+When being hit by Fire damage: __take +2 damage__
  
-When being hit by Reptiles
+When being hit by Reptiles: __take +2 damage__
 
-When your attack dice are boosted temporarily
+When your attack dice are boosted temporarily: __gain 1 less__
 
-When walking on to lava tiles 
+When walking on to lava tiles: __take +1 damage__
 
 ---
 
@@ -82,17 +82,18 @@ When walking on to lava tiles
 
 ---
 
-When being hit by dark damage
+When being hit by dark damage: __take +2 damage__
 
-When your MP is being drained
+When your MP is being drained: __take +6 mp damage__
 
-When being hit by Zombies
+When being hit by Zombies: __take +2 damage__
 
-When your range is boosted temporarily
+When your range is boosted temporarily: __gain 1 less__
 
-When rolling awareness checks 
+When rolling awareness checks: __-2 to your roll__
 
-When attacking enemies who are immune to physical damage temporarily
+When attacking enemies who are immune to physical damage temporarily: __your damage goes through__
 
+---
 
-
+[[Races|Races]]
