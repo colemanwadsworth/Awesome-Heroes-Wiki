@@ -1,4 +1,3 @@
-
 #### flame tribe  
 The fire-tribe is known for their Intelligence, and Majesty  
 
@@ -22,4 +21,6 @@ The Ice-tribe is known for their Power, and Mystery
 
 ---
 
-After drinking the dragonsblood elixir you lose your original automatic ability and it is replaced by mountainwalking 
+After drinking the dragonsblood elixir you lose your original automatic ability and it is replaced by mountainwalking  
+
+[[Races/Races]]
