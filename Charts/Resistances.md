@@ -1,6 +1,7 @@
 ## Resistance  
 
-[[Weaknesses here|Charts/Weaknesses]]
+[[Weaknesses here|Charts/Weaknesses]]  
+
 ---
 
 ### Light  
