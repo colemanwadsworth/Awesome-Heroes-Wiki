@@ -16,6 +16,6 @@ The Dark elves are known for both their wildness and shyness
 
 +1 Dexterity cap, +1 Spell cap, +5 MP, -1 HP  
 (weakness: light) (resistance: earth) (Bonus (4): +1 movement)  
-(Gods: __Eneyeche__, Lamudo, Amiti, or Shifra)
+(Gods: __Eneyeche__, Uru, Amiti, or Shifra)
 
 [[Races|Races]]
