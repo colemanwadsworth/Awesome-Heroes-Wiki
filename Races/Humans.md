@@ -16,7 +16,7 @@ Thorans are often not the brightest but there strength in battle is unmatched
 
 +2 Strength cap, +1 Skill cap  
 (weakness: dark) (resistance: water) (Bonus (3): +1 defense die)  
-(Gods: __Thorus__, Shifra, Amiti, or Gozma)  
+(Gods: __Thorus__, Shifra, Lamudo, or Gozma)  
 
 ---
 
@@ -27,7 +27,7 @@ Lamudians are often gullible but there dexterous bodies make them valuable allie
 
 +2 Dexterity cap, +1 Strength cap  
 (weakness: dark) (resistance: air) (Bonus (3): +1 movement)  
-(Gods: __Lamudo__, Amiti, Shifra, or Gozma)  
+(Gods: __Lamudo__, Amiti, Uru, or Gozma)  
 
 ---
 
