@@ -38,7 +38,3 @@ Dragonborn are those who have drunk the blood of a dragon to gain power
 Golems are ancient beings of magic created by Zuloscia to defend the realm they have no minds, but are fueled by the elements  
 
 (Can’t be used at level 1 or 2)
-
-Spartonian) +1 Skill, +2 max skill (Power charge: see class) (weakness: water) (resistance: dark) (Bonus (8): -5 MP, +1 HP, +1 movement, +1 magic attack) (God: Zuloscia) Spartonian golems were built for assault
-
-Athonian) +1 Strength, +2 max Strength (Oversields: see class) (weakness: water) (resistance: dark) (Bonus (8): -5 MP, +1 HP, +1 physical defense, +1 magic defense) (God: Zuloscia) Athonian golems were built for protection
