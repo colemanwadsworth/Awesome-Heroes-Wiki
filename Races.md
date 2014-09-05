@@ -25,7 +25,7 @@ Goblins were created by Kal in the modern day to battle against men, they are be
 ## LOCKED CLASSES  
 
 ### [[Mages|Races/Mages]]  
-To be a Mage you must start as an adept and choose to become one at level
+To be a Mage you must start as an adept and choose to become one at level 3
 
 ---
 
@@ -37,4 +37,4 @@ Dragonborn are those who have drunk the blood of a dragon to gain power
 ### [[Golems|Races/Golems]]  
 Golems are ancient beings of magic created by Zuloscia to defend the realm they have no minds, but are fueled by the elements  
 
-(Can’t be used at level 1 or 2)
+(Starts level 3)
