@@ -38,3 +38,7 @@ Dragonborn are those who have drunk the blood of a dragon to gain power
 Golems are ancient beings of magic created by Zuloscia to defend the realm they have no minds, but are fueled by the elements  
 
 (Starts level 3)
+
+---
+
+[[Weakness and resistances|Charts/WR]]
