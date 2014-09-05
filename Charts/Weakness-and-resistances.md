@@ -6,13 +6,13 @@
 
 ---
 
-When being hit by light damage 
+When being hit by light damage: __take +2 damage__
 
-When being healed by an effect
+When being healed by an effect: Heal -1 HP
 
-When attacking forcefields
+When attacking forcefields: deal +2 damage
 
-When casting spells on characters immune to magic damage temporarily
+When casting spells on characters immune to magic damage temporarily: the damage goes through
 
 ---
 
