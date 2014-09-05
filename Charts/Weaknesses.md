@@ -12,7 +12,7 @@ When being healed by an effect: __Heal 1 less__
 
 When attacking forcefields: __deal 2 less damage__
 
-When casting spells on characters immune to magic damage temporarily: __it sucks__
+When attacking characters immune to damage temporarily: __it sucks__
 
 ---
 
@@ -92,8 +92,7 @@ When your range is boosted temporarily: __gain 1 less__
 
 When rolling awareness checks: __-2 to your roll__
 
-When attacking enemies who are immune to physical damage temporarily: __it sucks__
-
 ---
 
+[[Resistances|Charts/Resistances]]  
 [[Races|Races]]
