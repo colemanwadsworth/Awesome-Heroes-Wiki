@@ -1,5 +1,8 @@
 ## Weakness  
 
+
+[[Resistances here|Charts/Resistances]] 
+
 ---
 
 ### Light  
@@ -93,6 +96,5 @@ When your range is boosted temporarily: __gain 1 less__
 When rolling awareness checks: __-2 to your roll__
 
 ---
-
-[[Resistances|Charts/Resistances]]  
+ 
 [[Races|Races]]
