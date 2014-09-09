@@ -5,7 +5,7 @@ The northern Uru are known for their Handy craftsmanship, and hyperactive demean
 
 +1 Dexterity cap, -2 falling damage, +1 movement, -5 MP, ignore the movement penalty of brush tiles, +5 to bog, and ice checks  
 (weakness: light) (weakness: fire) (resistance: water) (resistance: dark) (Bonus (6): +1 HP)  
-(Gods: __Uru__, Kal, [[Lamudo|Gods/Lamudo]], or [[Shifra|Gods/Shifra]])  
+(Gods: [[Uru|Gods/Uru]], Kal, [[Lamudo|Gods/Lamudo]], or [[Shifra|Gods/Shifra]])  
 
 ---
 
