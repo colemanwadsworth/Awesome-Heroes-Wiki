@@ -3,3 +3,8 @@
 ## Races that worship Amiti  
 [[Humans: Amitians, Shifrans, Lamudians|Races/Humans]]  
 [[Dwarves: Galohm clan|Races/Dwarves]]  
+[[Elves: High elf, Dark elf|Races/Elves]]  
+
+---
+
+[[Gods|Gods]]
