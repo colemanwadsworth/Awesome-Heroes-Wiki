@@ -2,4 +2,5 @@
 
 ## Races that worship Thorus  
 
-[[Humans: Thoran, Shifran, Amitian|Races/Humans]]
+[[Humans: Thoran, Shifran, Amitian|Races/Humans]]  
+[[Dwarves: Galohm clan, Sul clan|Races/Dwarves]]
