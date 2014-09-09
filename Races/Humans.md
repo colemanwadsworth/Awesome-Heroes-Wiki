@@ -27,7 +27,7 @@ Lamudians are often gullible but there dexterous bodies make them valuable allie
 
 +2 Dexterity cap, +1 Strength cap  
 (weakness: dark) (resistance: air) (Bonus (3): +1 movement)  
-(Gods: [[Lamudo|Gods/Lamudo]], [[Amiti|Gods/Amiti]], Uru, or Gozma)  
+(Gods: [[Lamudo|Gods/Lamudo]], [[Amiti|Gods/Amiti]], [[Uru|Gods/Uru]], or Gozma)  
 
 ---
 
