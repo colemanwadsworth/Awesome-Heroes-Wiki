@@ -3,3 +3,4 @@ God of trade, courage, travel, and patron of Derma, he was a mysterious man, who
 ## Races that worship Lamudo  
 [[Humans: Lamudian, Shifran, Thoran, Amitian|Races/Humans]]  
 [[Elves: High elf|Races/Elves]]  
+[[Goblins: Uru tribe|Races/Goblins]]
