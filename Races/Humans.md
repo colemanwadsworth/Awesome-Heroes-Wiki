@@ -5,7 +5,7 @@ Shifrans are often short tempered, but highly skilled in their craft
 
 +2 Skill cap, +1 Wisdom cap  
 (weakness: dark) (resistance: fire) (Bonus (5): +1 attack dice)  
-(Gods: [[Shifra|Gods/Shifra]]__, Thorus, Lamudo, or Amiti)
+(Gods: [[Shifra|Gods/Shifra]], Thorus, Lamudo, or Amiti)
 		
 ---
 
