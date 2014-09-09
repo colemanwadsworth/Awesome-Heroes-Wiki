@@ -16,7 +16,7 @@ Thorans are often not the brightest but there strength in battle is unmatched
 
 +2 Strength cap, +1 Skill cap  
 (weakness: dark) (resistance: water) (Bonus (3): +1 defense die)  
-(Gods: __Thorus__, [[Shifra|Gods/Shifra]], Lamudo, or Gozma)  
+(Gods: [[Thorus|Gods/Thorus]], [[Shifra|Gods/Shifra]], Lamudo, or Gozma)  
 
 ---
 
@@ -38,6 +38,6 @@ Amitian’s are often quiet, but are highly in touch with they're spirit
 
 +2 Wisdom cap, +1 Dexterity cap  
 (Bonus (5): +5 MP)  
-(Gods: __Amiti__, Lamudo, Thorus, or Eneyeche)  
+(Gods: __Amiti__, Lamudo, [[Thorus|Gods/Thorus]], or Eneyeche)  
 
 [[Races|Races]]
