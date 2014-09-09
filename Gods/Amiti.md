@@ -1,0 +1,1 @@
+#### Godess of light, knowledge, healing, and patron of Mythos, she was a kind woman who helped all, she lead her people to prosperity with her wisdom  
