@@ -16,6 +16,6 @@ The Sul clan is known for their Epic treasure hoard and Legendary warriors
  
 +1 Strength cap, +1 Abilty cap, +1 HP, -1 movement  
 (weakness: earth) (resistance: water) (Bonus (2): +1 defense die)  
-(Gods: __Gozma__, [[Thorus|Gods/Thorus]], Uru, or Eneyéche)  
+(Gods: __Gozma__, [[Thorus|Gods/Thorus]], [[Uru|Gods/Uru]], or Eneyéche)  
 
 [[Races|Races]]
