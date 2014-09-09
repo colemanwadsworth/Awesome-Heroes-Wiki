@@ -2,4 +2,4 @@
 
 ## Races that worship Thorus  
 
-[[Humans: |Races/Humans]]
+[[Humans: Thoran, Shifran, Amitian|Races/Humans]]
