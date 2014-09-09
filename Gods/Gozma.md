@@ -2,4 +2,4 @@
 
 ## Races that worship Gozma  
 [[Dwarves: Galohm clan, Sul clan|Races/Dwarves]]  
-[[Humans: Thoran, Lamudian|Races/Human]]  
+[[Humans: Thoran, Lamudian|Races/Humans]]  
