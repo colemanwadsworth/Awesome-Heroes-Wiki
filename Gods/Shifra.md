@@ -3,5 +3,6 @@
 ## Races that worship shifra  
 [[Humans: Shifran, Thoran|Races/Humans]]  
 [[Dwarves: Kalohm clan|Races/Dwarves]]  
+[[Elves: Dark elf|Races/Elves]]  
 
 
