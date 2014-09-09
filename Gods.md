@@ -2,7 +2,7 @@ The god you pick will determine which bonus you recieve once you get to level 7,
 
 ---
 
-### Shifra  
+### [[Shifra|Gods/Shifra]]   
 Godess of fire, power, horses, and patron of Apartho, she conquest, a powerful competitive figure.  
 E (19): Doubles your attack dice, turns all damage you deal into magic damage, and grants fire magic immunity 
 
