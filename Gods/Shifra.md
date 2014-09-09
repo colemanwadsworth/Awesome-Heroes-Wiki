@@ -3,6 +3,7 @@
 ---
 
 ##### Races that worship shifra  
+[[Human: Shifran|Races/Human]]
 
 ---
 
