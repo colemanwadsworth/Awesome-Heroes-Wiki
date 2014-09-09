@@ -5,7 +5,7 @@ The High elves are known for their insight, and distaste for other races
  
 +1 Wisdom cap, +1 Spell cap, +5 MP, -1 HP  
 (weakness: fire) (resistance: light) (Bonus (4): +5 MP)  
-(Gods: __Eneyeche__, Amiti, Lamudo, or [[Thorus|Gods/Thorus]])
+(Gods: __Eneyeche__, Amiti, [[Lamudo|Gods/Lamudo]], or [[Thorus|Gods/Thorus]])
 
 ---
 
