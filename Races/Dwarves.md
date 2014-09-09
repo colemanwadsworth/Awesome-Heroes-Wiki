@@ -5,7 +5,7 @@ The Kalohm clan is known for their great underground palaces, and great forging 
 
 +1 Wisdom cap, +1 Ability cap, +1 HP, -1 movement  
 (weakness: earth) (weakness: dark) (resistance: light) (resistance: fire) (Bonus (2): +1 HP)  
-(Gods: __Gozma__, [[Shifra|Gods/Shifra]], [[Thorus|Gods/Thorus]], or Amiti)  
+(Gods: __Gozma__, [[Shifra|Gods/Shifra]], [[Thorus|Gods/Thorus]], or [[Amiti|Gods/Amiti]])  
 
 ---
 
