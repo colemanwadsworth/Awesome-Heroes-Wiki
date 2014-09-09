@@ -27,8 +27,7 @@ E (17): Doubles movement, reduces your opponents attack and defense dice by 2
 
 ---
 
-### Gozma  
-God of earth, justice, order and patron of Kaldur, he was the original creator of dwarves and giants, a tact general and a just leader  
+### [[Gozma|Gods/Gozma]]  
 E (12): Recovers 6HP, silences all opponents within 4 spaces, and grants immunity to earth magic  
 
 ---
