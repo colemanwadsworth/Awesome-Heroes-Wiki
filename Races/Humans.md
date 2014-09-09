@@ -16,7 +16,7 @@ Thorans are often not the brightest but there strength in battle is unmatched
 
 +2 Strength cap, +1 Skill cap  
 (weakness: dark) (resistance: water) (Bonus (3): +1 defense die)  
-(Gods: __Thorus__, Shifra, Lamudo, or Gozma)  
+(Gods: __Thorus__, [[Shifra|Gods/Shifra]], Lamudo, or Gozma)  
 
 ---
 
