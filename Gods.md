@@ -7,7 +7,7 @@ E (19): Doubles your attack dice, turns all damage you deal into magic damage, a
 
 ---
 
-### Thorus  
+### [[Thorus|Gods/Thorus]]  
 E (18): Doubles your defense dice, freezes all opponents within 4 spaces of you, and grants ice immunity  
 
 ---
