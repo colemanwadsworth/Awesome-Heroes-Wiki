@@ -2,8 +2,7 @@
 
 ---
 
-##### Races that worship shifra  
+## Races that worship shifra  
 [[Humans: Shifran, Thoran|Races/Humans]]
 
----
 
