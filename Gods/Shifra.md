@@ -2,6 +2,6 @@
 
 ## Races that worship shifra  
 [[Humans: Shifran, Thoran|Races/Humans]]  
-Dwarves: 
+[[Dwarves: |Races/Dwarves]]  
 
 
