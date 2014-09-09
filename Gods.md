@@ -12,8 +12,7 @@ E (18): Doubles your defense dice, freezes all opponents within 4 spaces of you,
 
 ---
 
-### Lamudo  
-God of trade, courage, travel, and patron of Derma, he was a mysterious man, who always managed to get his way, he was a courageous and charismatic figure  
+### [[Lamudo|Gods/Lamudo]]  
 E (16): Teleports you to any square on the map, and gives you a random treasure   
 
 ---
