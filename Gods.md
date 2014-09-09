@@ -17,8 +17,7 @@ E (16): Teleports you to any square on the map, and gives you a random treasure
 
 ---
 
-### Amiti  
-Godess of light, knowledge, healing, and patron of Mythos, she was a kind woman who helped all, she lead her people to prosperity with her wisdom  
+### [[Amiti|Gods/Amiti]]  
 E (15): Recovers 30MP, and grants immunity to magic damage  
 
 ---
