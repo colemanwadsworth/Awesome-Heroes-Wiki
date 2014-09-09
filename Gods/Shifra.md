@@ -6,4 +6,7 @@
 [[Elves: Dark elf|Races/Elves]]  
 [[Goblins: Uru tribe, Marro tribe|Races/Goblins]]
 
+---
+
+[[Gods|Gods]]
 
