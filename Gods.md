@@ -2,13 +2,12 @@ The god you pick will determine which bonus you recieve once you get to level 7,
 
 ---
 
-### [[Shifra|Gods/Shifra]]   
+### [[Shifra|Gods/Shifra]]  
 E (19): Doubles your attack dice, turns all damage you deal into magic damage, and grants fire magic immunity 
 
 ---
 
 ### Thorus  
-God of water, protection, mountains, and patron of Valnutia, he strived for equality, a leader who would protect his people at all cost  
 E (18): Doubles your defense dice, freezes all opponents within 4 spaces of you, and grants ice immunity  
 
 ---
