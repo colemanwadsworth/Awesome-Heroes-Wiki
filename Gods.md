@@ -1,4 +1,4 @@
-The god you pick will determine which cities you can pick as your place of origin, and which bonus you recieve once you get to level 7  
+The god you pick will determine which bonus you recieve once you get to level 7, and the cities you can pick from as your place of origin.
 
 ---
 
