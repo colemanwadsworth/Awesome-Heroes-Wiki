@@ -16,7 +16,7 @@ E (18): Doubles your defense dice, freezes all opponents within 4 spaces of you,
 
 ### Lamudo  
 God of trade, courage, travel, and patron of Derma, he was a mysterious man, who always managed to get his way, he was a courageous and charismatic figure  
-E (16): Teleports you to any square on the map, gives you a random treasure and grants light immunity  
+E (16): Teleports you to any square on the map, and gives you a random treasure   
 
 ---
 
@@ -52,7 +52,7 @@ E (11): Turns you into a dragon, halves your movement, grants a free breath atta
 
 ### Kal  
 God of chaos, death, corruption, and patron of Ygune and Esdrélle, he has always been the bane of peace on Kalozomey, but without him it would collapse, he has been banished deep in the depths of the sea  
-E (13): -3 HP, roll a 6 sided dice for each character (1- Judgement, 2- Doom, 3- Silence, 4- Poison, 5- Confusion, 6- Dazed  
+E (13): -3 HP, grants light magic immunity, and roll a 6 sided dice for each character (1- Judgement, 2- Doom, 3- Silence, 4- Poison, 5- Confusion, 6- Dazed  
 
 ---
 
