@@ -22,6 +22,11 @@ E (15): Recovers 30MP, and grants immunity to magic damage
 
 ---
 
+### [[Uru|Gods/Uru]]  
+E (17): Doubles movement, reduces your opponents attack and defense dice by 2  
+
+---
+
 ### Gozma  
 God of earth, justice, order and patron of Kaldur, he was the original creator of dwarves and giants, a tact general and a just leader  
 E (12): Recovers 6HP, silences all opponents within 4 spaces, and grants immunity to earth magic  
@@ -31,12 +36,6 @@ E (12): Recovers 6HP, silences all opponents within 4 spaces, and grants immunit
 ### Enéyeche  
 Godess of the wilds, beasts, air and patron of Solisí, she was the original creator of elves and all manner of beasts, she lead her people to spirituality and hope, without fear or doubt  
 E (14): Turns all tiles to grass as you step on them until the end of your turn, converts all neutral enemies to your side, and grants immunity to air magic  
-
----
-
-### Uru  
-God of war, pride, survival, and patron of Uru-ma, he was the strongest in all of Kalozomey, but was vengeful and proud and fell victim to Kal’s corruption as well as his people  
-E (17): Doubles movement, reduces your opponents attack and defense dice by 2  
 
 ---
 
