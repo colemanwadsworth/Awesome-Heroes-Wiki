@@ -3,3 +3,8 @@
 ## Races that worship Eneyéche  
 [[Elves: High elf|Races/Elves]]  
 [[Humans: Amitian|Races/Humans]]  
+[[Goblins: Uru tribe, Marro tribe|Races/Goblins]]  
+
+---
+
+[[Gods|Gods]]  
