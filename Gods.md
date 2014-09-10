@@ -3,12 +3,12 @@ The god you pick will determine which bonus you recieve once you get to level 7,
 ---
 
 ### [[Shifra|Gods/Shifra]]  
-E (19): Doubles your attack dice, turns all damage you deal into magic damage, and grants fire magic immunity 
+E (19): Doubles your attack dice, turns all damage you deal into magic damage, and grants immunity to fire magic
 
 ---
 
 ### [[Thorus|Gods/Thorus]]  
-E (18): Doubles your defense dice, freezes all opponents within 4 spaces of you, and grants ice immunity  
+E (18): Doubles your defense dice, freezes all opponents within 4 spaces of you, and grants immunity to ice magic
 
 ---
 
