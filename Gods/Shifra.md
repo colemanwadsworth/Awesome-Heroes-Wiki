@@ -2,9 +2,9 @@
 
 ## Races that worship shifra  
 [[Humans: Shifran, Thoran|Races/Humans]]  
-[[Dwarves: Kalohm clan|Races/Dwarves]]  
+[[Dwarves: Kalohm clan, Sul clan|Races/Dwarves]]  
 [[Elves: Dark elf|Races/Elves]]  
-[[Goblins: Uru tribe, Marro tribe|Races/Goblins]]
+[[Goblins:  Marro tribe|Races/Goblins]]
 
 ---
 
