@@ -47,8 +47,7 @@ E (13): -3 HP, grants light magic immunity, and roll a 6 sided dice for each cha
 
 ---
 
-### Zuloscia  
-The god of energy, life, mystery, and patron of Kalozomey, It, a golem was the original being on kalozomey, and the creator of other golems and kyrie, He has hidden himself away for centuries  
+### [[Zuloscia|Gods/Zuloscia]]  
 E (10): -15 MP, grants two bonus actions, +1 magic attack dice, and grants immunity to dark magic  
 
 ---
