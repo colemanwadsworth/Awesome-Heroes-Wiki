@@ -3,7 +3,7 @@
 
 [[Game instructions|Mechanics]]  
 [[Classes|Classes]]  
-[[Races|Races]]
+[[Races|Races]]  
 [[Nationalities|Locations]]  
 [[Gods|Gods]]  
 [[Item guide|Items]]  
