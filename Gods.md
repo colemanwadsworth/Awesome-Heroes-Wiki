@@ -42,8 +42,7 @@ E (11): Turns you into a dragon, halves your movement, grants a free breath atta
 
 ---
 
-### Kal  
-God of chaos, death, corruption, and patron of Ygune and Esdrélle, he has always been the bane of peace on Kalozomey, but without him it would collapse, he has been banished deep in the depths of the sea  
+### [[Kal|Gods/Kal]]  
 E (13): -3 HP, grants light magic immunity, and roll a 6 sided dice for each character (1- Judgement, 2- Doom, 3- Silence, 4- Poison, 5- Confusion, 6- Dazed  
 
 ---
