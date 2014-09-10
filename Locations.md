@@ -33,15 +33,31 @@ C) Oapai (+1 wisdom, sandwalking) (Gods: Lamudo, Gozma, Amiti)
 
 ---
 
-Mythos) A forested region in the east, ruled by tribe elders, who preach spirituality
-A)	Mythopolis (1)(+2 wisdom) (Gods: Amiti, Gozma, Zuloscia)
-B)	Ephebe (1)(+1 wisdom, +1 strength) (Gods: Amiti, Gozma, Thorus)
-C)	Kisî (2)(+1 wisdom, +1 dexterity) (Gods: Amiti, Enéyeche, Lamudo)
+### Mythos  
+A forested region in the east, ruled by tribe elders, who preach spirituality  
 
-Kaldur) An underground network ruled by a council of dwarves, they are guided by the goal of peace
-A)	Kaldur hall (5)(fire resistance) (Gods: Zuloscia, Gozma)
+---
 
-Uru-ma) A swamp in the center of Kalozomey, It is ruled by a goblin king from the northern islands of Uru-kal who seeks only chaos 
+A) Mythopolis (+2 wisdom) (Gods: Amiti, Gozma, Zuloscia)  
+B) Ephebe (+1 wisdom, +1 strength) (Gods: Amiti, Gozma, Thorus)  
+C) Kisî (+1 wisdom, +1 dexterity) (Gods: Amiti, Enéyeche, Lamudo)  
+
+---
+
+## Kaldur 
+An underground network ruled by a council of dwarves, they are guided by the goal of peace  
+
+---
+
+A) Kaldur hall (fire resistance) (Gods: Zuloscia, Gozma)  
+
+---
+
+## Uru-ma  
+A swamp in the center of Kalozomey, It is ruled by a goblin king from the northern islands of Uru-kal who seeks only chaos  
+
+---
+
 A)	Uru-drad (4)(+1 HP) (Gods: Uru, Enéyeche)
 B)	Uru-pal (2)(+1 dexterity, brushwallking) (Gods: Uru, Lamudo, Kal)
 C)	Lescovo (1)(+1 movement) (Gods: Thorus, Enéyeche, Uru)
