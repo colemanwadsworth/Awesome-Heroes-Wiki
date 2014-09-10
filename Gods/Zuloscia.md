@@ -5,4 +5,8 @@
 
 ---
 
+(Bonus: 10): -15 MP, grants two bonus actions, +1 magic attack dice, and immunity to dark magic  
+
+---
+
 [[Gods|Gods]]
