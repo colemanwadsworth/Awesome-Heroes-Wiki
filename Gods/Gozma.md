@@ -7,4 +7,8 @@
 
 ---
 
+(Bonus: 12): Recovers 6HP, silences all opponents within 4 spaces, and grants immunity to earth magic  
+
+---
+
 [[Gods|Gods]]  
