@@ -48,7 +48,7 @@ E (13): -3 HP, roll a 6 sided dice for each character (1- Judgement, 2- Doom, 3-
 ---
 
 ### [[Zuloscia|Gods/Zuloscia]]  
-E (10): -15 MP, grants two bonus actions, +1 magic attack dice, and grants immunity to dark magic  
+E (10): -15 MP, grants two bonus actions, +1 magic attack dice, and immunity to dark magic  
 
 ---
 
