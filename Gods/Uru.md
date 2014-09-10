@@ -2,7 +2,7 @@
 
 ## Races that worship Uru  
 [[Goblins: Uru tribe|Races/Goblins]]  
-[[Humans: Lamudian|Races/Humans]]  
+[[Humans: Lamudian, Amitian|Races/Humans]]  
 [[Dwarves: Sul clan|Races/Dwarves]]  
 [[Elves: Dark elf|Races/Elves]]  
 
