@@ -23,7 +23,7 @@ E (15): Recovers 30MP, and grants immunity to magic damage
 ---
 
 ### [[Uru|Gods/Uru]]  
-E (17): Doubles movement, reduces your opponents attack and defense dice by 2, and grants light magic immunity  
+E (17): Doubles movement, reduces your opponents attack and defense dice by 2, and grants immunity to light magic
 
 ---
 
