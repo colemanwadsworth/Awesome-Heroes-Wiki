@@ -89,10 +89,20 @@ A forested region covering the northern half of the southern isle of malamar, ru
 
 ---
 
-A)	Jallanû (5)(light resistance) (Gods: Enéyeche, Thorus)
-B)	Ychélle (1)(air resistance) (Gods: Enéyeche, Amiti, Lamudo)
-C)	Simossé (4)(swimming, +3 to deep water rolls) (Gods: Zuloscia, Enéyeche)
+A) Jallanû (light resistance) (Gods: Enéyeche, Thorus)  
+B) Ychélle (air resistance) (Gods: Enéyeche, Amiti, Lamudo)  
+C) Simossé (swimming, +3 to deep water rolls) (Gods: Zuloscia, Enéyeche)  
 
-	Dümudor) A volcanic region on the southern end of malamar, it is ruled ferociously and cruely by an emperor dragon
-A)	Tülvasa (5)(dark resistance) (Gods: Derigan, Kal, Gozma)
-B)	Dümarro (3)(+1 skill, - 1 lava damage, -1 falling damage, +1 climbing cap, +3 to bog and quicksand rolls) (Gods: Kal, Enéyeche, Shifra)
+---
+
+### Dümudor  
+A volcanic region on the southern end of malamar, it is ruled ferociously and cruely by an emperor dragon  
+
+---
+
+A) Tülvasa (dark resistance) (Gods: Derigan, Kal, Gozma)  
+B) Dümarro (+1 skill, - 1 lava damage, -1 falling damage, +1 climbing cap, +3 to bog and quicksand rolls) (Gods: Kal, Enéyeche, Shifra)  
+
+---
+
+[[Races|Races]]
