@@ -43,7 +43,7 @@ E (11): Turns you into a dragon, halves your movement, grants a free breath atta
 ---
 
 ### [[Kal|Gods/Kal]]  
-E (13): -3 HP, grants damage immunity, and roll a 6 sided dice for each character (1- Judgement, 2- Doom, 3- Silence, 4- Poison, 5- Confusion, 6- Dazed  
+E (13): -3 HP, roll a 6 sided dice for each character (1- Judgement, 2- Doom, 3- Silence, 4- Poison, 5- Confusion, 6- Dazed), and grants immunity to damage
 
 ---
 
