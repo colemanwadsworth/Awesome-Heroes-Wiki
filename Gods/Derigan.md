@@ -5,4 +5,8 @@
 
 ---
 
+(Bonus: 11): Turns you into a dragon, halves your movement, grants a free breath attack, dragontongue and flying, changes your attack and defense base to 7, and grants immunity to physical damage  
+
+---
+
 [[Gods|Gods]]  
