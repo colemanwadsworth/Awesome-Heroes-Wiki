@@ -7,4 +7,8 @@
 
 ---
 
+(Bonus: 14): Turns all tiles to grass as you step on them until the end of your turn, converts all neutral enemies to your side, and grants immunity to air magic 
+
+---
+
 [[Gods|Gods]]  
