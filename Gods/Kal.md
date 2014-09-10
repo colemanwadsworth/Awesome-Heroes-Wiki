@@ -3,3 +3,11 @@
 ## Races that worship Kal  
 [[Goblins: Marro tribe, Uru tribe|Races/Goblins]]  
 [[Elves: Dark elf|Races/Elves]]  
+
+---
+
+(Bonus: 13): -3 HP, roll a 6 sided dice for each character (1- Judgement, 2- Doom, 3- Silence, 4- Poison, 5- Confusion, 6- Dazed), and grants immunity to damage  
+
+---
+
+[[Gods|Gods]]
