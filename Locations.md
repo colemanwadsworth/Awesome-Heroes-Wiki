@@ -12,14 +12,26 @@ D) Vernailles (+1 skill, +1 wisdom) (Gods: Shifra, Thorus, Gozma)
 
 ---
 	
-Valnutia) A mountainous region to the north, governed by a court of generals and nobles seeking justice 
-A)	Nüvaltia (4)(+2 strength) (Gods: Thorus, Shifra, Amiti)
-B)	Iri (5)(Water resistance) (Gods: Thorus, Gozma)
+### Valnutia  
+A mountainous region to the north, governed by a court of generals and nobles seeking justice  
 
-Derma) A vast desert to the west, ruled by rich mercantile groups, with an impressive navy 
-A)	Dermastine (3)(+1 dexterity, +1 skill) (Gods: Lamudo, Shifra, Zuloscia)
-B)	Buståd (4)(+2 dexterity) (Gods: Lamudo, Uru, Shifra)
-C)	Oapai (2)(+1 wisdom, sandwalking) (Gods: Lamudo, Gozma, Amiti)
+---
+
+A) Nüvaltia (+2 strength) (Gods: Thorus, Shifra, Amiti)  
+B) Iri (Water resistance) (Gods: Thorus, Gozma)  
+
+---
+
+### Derma  
+A vast desert to the west, ruled by rich mercantile groups, with an impressive navy  
+
+---
+
+A) Dermastine (+1 dexterity, +1 skill) (Gods: Lamudo, Shifra, Zuloscia)  
+B) Buståd (+2 dexterity) (Gods: Lamudo, Uru, Shifra)  
+C) Oapai (+1 wisdom, sandwalking) (Gods: Lamudo, Gozma, Amiti)  
+
+---
 
 Mythos) A forested region in the east, ruled by tribe elders, who preach spirituality
 A)	Mythopolis (1)(+2 wisdom) (Gods: Amiti, Gozma, Zuloscia)
