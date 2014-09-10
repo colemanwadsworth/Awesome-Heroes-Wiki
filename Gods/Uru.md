@@ -8,7 +8,7 @@
 
 ---
 
-(Bonus: 17): Doubles movement, reduces your opponents attack and defense dice by 2  
+(Bonus: 17): Doubles movement, reduces your opponents attack and defense dice by 2, and grants immunity to light magic
 
 ---
 
