@@ -44,7 +44,7 @@ C) Kisî (+1 wisdom, +1 dexterity) (Gods: Amiti, Enéyeche, Lamudo)
 
 ---
 
-## Kaldur 
+### Kaldur 
 An underground network ruled by a council of dwarves, they are guided by the goal of peace  
 
 ---
@@ -53,24 +53,42 @@ A) Kaldur hall (fire resistance) (Gods: Zuloscia, Gozma)
 
 ---
 
-## Uru-ma  
+### Uru-ma  
 A swamp in the center of Kalozomey, It is ruled by a goblin king from the northern islands of Uru-kal who seeks only chaos  
 
 ---
 
-A)	Uru-drad (4)(+1 HP) (Gods: Uru, Enéyeche)
-B)	Uru-pal (2)(+1 dexterity, brushwallking) (Gods: Uru, Lamudo, Kal)
-C)	Lescovo (1)(+1 movement) (Gods: Thorus, Enéyeche, Uru)
-D)	Naståk (5)(+1 strength, snowwalking, +3 to ice rolls) (Gods: Derigan, Kal, Enéyeche)
+A) Uru-drad (+1 HP) (Gods: Uru, Enéyeche)  
+B) Uru-pal (+1 dexterity, brushwallking) (Gods: Uru, Lamudo, Kal)  
+C) Lescovo (+1 movement) (Gods: Thorus, Enéyeche, Uru)  
+D) Naståk (+1 strength, snowwalking, +3 to ice rolls) (Gods: Derigan, Kal, Enéyeche)  
 
-	Ygune) Wedged between Derma, Valnutia, and Apartho, this region is a barren wasteland with rocky spires, it is left to the rule of giants
-A)	Akîm (4)(mountainwalking) (Gods: Thorus, Kal, Uru)
-B)	Sumaz (3)(earth resistance) (Gods: Gozma, Lamudo)
+---
 
-Esdrélle) A dense forested region even goblins avoid, it is considered the dark forest, it is a home for many mysteries 
-A)	Zelléca (3)(+5 MP) (Gods: Uru, Amiti, Kal)
+### Ygune  
+Wedged between Derma, Valnutia, and Apartho, this region is a barren wasteland with rocky spires, it is left to the rule of giants  
 
-Solisi) A forested region covering the northern half of the southern isle of malamar, ruled by an ancient elf queen, it thrives in complete harmony with nature
+---
+
+A) Akîm (mountainwalking) (Gods: Thorus, Kal, Uru)  
+B) Sumaz (earth resistance) (Gods: Gozma, Lamudo)  
+
+---
+
+### Esdrélle  
+A dense forested region even goblins avoid, it is considered the dark forest, it is a home for many mysteries  
+
+---
+
+A) Zelléca (+5 MP) (Gods: Uru, Amiti, Kal)  
+
+---
+
+### Solisi  
+A forested region covering the northern half of the southern isle of malamar, ruled by an ancient elf queen, it thrives in complete harmony with nature  
+
+---
+
 A)	Jallanû (5)(light resistance) (Gods: Enéyeche, Thorus)
 B)	Ychélle (1)(air resistance) (Gods: Enéyeche, Amiti, Lamudo)
 C)	Simossé (4)(swimming, +3 to deep water rolls) (Gods: Zuloscia, Enéyeche)
