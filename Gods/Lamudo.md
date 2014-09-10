@@ -8,4 +8,7 @@
 
 ---
 
+(Bonus: 16): Teleports you to any square on the map, and gives you a random treasure   
+
+---
 [[Gods|Gods]]
