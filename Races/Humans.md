@@ -38,6 +38,6 @@ Amitian’s are often quiet, but are highly in touch with they're spirit
 
 +2 Wisdom cap, +1 Dexterity cap  
 (Bonus (5): +5 MP)  
-(Gods: [[Amiti|Gods/Amiti]], [[Lamudo|Gods/Lamudo]], [[Thorus|Gods/Thorus]], or Eneyeche)  
+(Gods: [[Amiti|Gods/Amiti]], [[Uru|Gods/Uru]], [[Thorus|Gods/Thorus]], or Eneyeche)  
 
 [[Races|Races]]
