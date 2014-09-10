@@ -8,7 +8,7 @@
 
 ---
 
-(19): Doubles your attack dice, turns all damage you deal into magic damage, and grants fire magic immunity  
+(Bonus: 19): Doubles your attack dice, turns all damage you deal into magic damage, and grants fire magic immunity  
 
 ---
 
