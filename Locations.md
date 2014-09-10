@@ -1,10 +1,16 @@
-Nationalities) At the beginning of the game you must choose the nation that your character is from as well as the cities they are from, this will give you stat bonuses, determine what gods and races are available to you
+#### At the beginning of the game you must choose the nation that your character is from as well as the cities they are from, this will give you stat bonuses, determine what gods and races are available to you  
 
-Apartho) The largest country stretching across the southern plains, ruled by an ambitous empire.
-A)	Apartho city (2)(+2 skill) (Gods: Shifra, Lamudo)
-B)	Marshings (3)(+1 strength, +1 dexterity) (Gods: Shifra, Thorus, Uru)
-C)	Capal (1) (+1 skill, +1 strength) (Gods: Shifra, Gozma, Amiti)
-D)	Vernailles (2)(+1 skill, +1 wisdom) (Gods: Shifra, Thorus, Gozma)
+### Apartho  
+The largest country stretching across the southern plains, ruled by an ambitous empire.  
+
+---
+
+A) Apartho city (+2 skill) (Gods: Shifra, Lamudo)  
+B) Marshings (+1 strength, +1 dexterity) (Gods: Shifra, Thorus, Uru)  
+C) Capal (+1 skill, +1 strength) (Gods: Shifra, Gozma, Amiti)  
+D) Vernailles (+1 skill, +1 wisdom) (Gods: Shifra, Thorus, Gozma)  
+
+---
 	
 Valnutia) A mountainous region to the north, governed by a court of generals and nobles seeking justice 
 A)	Nüvaltia (4)(+2 strength) (Gods: Thorus, Shifra, Amiti)
