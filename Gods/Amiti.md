@@ -7,4 +7,8 @@
 
 ---
 
+(Bonus: 15): Recovers 30MP, and grants immunity to magic damage  
+
+---
+
 [[Gods|Gods]]
