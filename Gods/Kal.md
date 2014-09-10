@@ -2,3 +2,4 @@
 
 ## Races that worship Kal  
 [[Goblins: Marro tribe, Uru tribe|Races/Goblins]]  
+[[Elves: Dark elf|Races/Elves]]  
