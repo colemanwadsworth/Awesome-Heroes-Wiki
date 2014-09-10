@@ -2,3 +2,4 @@
 
 ## Races that worship Eneyéche  
 [[Elves: High elf|Races/Elves]]  
+[[Humans: Amitian|Races/Humans]]  
