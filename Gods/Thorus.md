@@ -8,7 +8,7 @@
 
 ---
 
-(Bonus: 18): Doubles your defense dice, freezes all opponents within 4 spaces of you, and grants ice immunity  
+(Bonus: 18): Doubles your defense dice, freezes all opponents within 4 spaces of you, and grants immunity to ice magic
 
 ---
 
