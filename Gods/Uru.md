@@ -8,4 +8,8 @@
 
 ---
 
+(Bonus: 17): Doubles movement, reduces your opponents attack and defense dice by 2  
+
+---
+
 [[Gods|Gods]]
