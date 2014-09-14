@@ -1,5 +1,7 @@
 #### At the beginning of the game you must choose the nation that your character is from as well as the cities they are from, this will give you stat bonuses, determine what gods and races are available to you  
 
+[ygune][ygune]
+
 ### Apartho  
 The largest country stretching across the southern plains, ruled by an ambitous empire.  
 
