@@ -69,7 +69,7 @@ D) Naståk (+1 strength, snowwalking, +3 to ice rolls) (Gods: Derigan, Kal, Ené
 
 ---
 
-### [Ygune](#test)  
+### [Ygune]  
 Wedged between Derma, Valnutia, and Apartho, this region is a barren wasteland with rocky spires, it is left to the rule of giants  
 
 ---
