@@ -1,6 +1,6 @@
 #### At the beginning of the game you must choose the nation that your character is from as well as the cities they are from, this will give you stat bonuses, determine what gods and races are available to you  
 
-[1]: www.google.com
+[1]: #test
 
 [ygune][1]
 
@@ -69,7 +69,7 @@ D) Naståk (+1 strength, snowwalking, +3 to ice rolls) (Gods: Derigan, Kal, Ené
 
 ---
 
-### Ygune  
+### [Ygune](#test)  
 Wedged between Derma, Valnutia, and Apartho, this region is a barren wasteland with rocky spires, it is left to the rule of giants  
 
 ---
