@@ -1,6 +1,6 @@
 #### At the beginning of the game you must choose the nation that your character is from as well as the cities they are from, this will give you stat bonuses, determine what gods and races are available to you  
 
-[1]: #test
+[1]: #ygune
 
 [ygune][1]
 
