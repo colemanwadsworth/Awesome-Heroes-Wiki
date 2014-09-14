@@ -2,7 +2,7 @@
 
 
 
-[ygune][#Ygune]
+[ygune](#Ygune)
 
 ### Apartho  
 The largest country stretching across the southern plains, ruled by an ambitous empire.  
